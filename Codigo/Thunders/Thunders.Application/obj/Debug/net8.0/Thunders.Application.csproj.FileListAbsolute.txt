@@ -1,0 +1,17 @@
+C:\Source\Thunders\Codigo\Thunders\Thunders.Application\bin\Debug\net8.0\Thunders.Application.deps.json
+C:\Source\Thunders\Codigo\Thunders\Thunders.Application\bin\Debug\net8.0\Thunders.Application.dll
+C:\Source\Thunders\Codigo\Thunders\Thunders.Application\bin\Debug\net8.0\Thunders.Application.pdb
+C:\Source\Thunders\Codigo\Thunders\Thunders.Application\bin\Debug\net8.0\Thunders.Domain.Core.dll
+C:\Source\Thunders\Codigo\Thunders\Thunders.Application\bin\Debug\net8.0\Thunders.Domain.dll
+C:\Source\Thunders\Codigo\Thunders\Thunders.Application\bin\Debug\net8.0\Thunders.Domain.Core.pdb
+C:\Source\Thunders\Codigo\Thunders\Thunders.Application\bin\Debug\net8.0\Thunders.Domain.pdb
+C:\Source\Thunders\Codigo\Thunders\Thunders.Application\obj\Debug\net8.0\Thunders.Application.csproj.AssemblyReference.cache
+C:\Source\Thunders\Codigo\Thunders\Thunders.Application\obj\Debug\net8.0\Thunders.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Source\Thunders\Codigo\Thunders\Thunders.Application\obj\Debug\net8.0\Thunders.Application.AssemblyInfoInputs.cache
+C:\Source\Thunders\Codigo\Thunders\Thunders.Application\obj\Debug\net8.0\Thunders.Application.AssemblyInfo.cs
+C:\Source\Thunders\Codigo\Thunders\Thunders.Application\obj\Debug\net8.0\Thunders.Application.csproj.CoreCompileInputs.cache
+C:\Source\Thunders\Codigo\Thunders\Thunders.Application\obj\Debug\net8.0\Thunders.Application.csproj.CopyComplete
+C:\Source\Thunders\Codigo\Thunders\Thunders.Application\obj\Debug\net8.0\Thunders.Application.dll
+C:\Source\Thunders\Codigo\Thunders\Thunders.Application\obj\Debug\net8.0\refint\Thunders.Application.dll
+C:\Source\Thunders\Codigo\Thunders\Thunders.Application\obj\Debug\net8.0\Thunders.Application.pdb
+C:\Source\Thunders\Codigo\Thunders\Thunders.Application\obj\Debug\net8.0\ref\Thunders.Application.dll

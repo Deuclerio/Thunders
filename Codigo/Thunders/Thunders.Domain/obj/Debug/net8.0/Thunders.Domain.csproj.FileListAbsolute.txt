@@ -1,0 +1,12 @@
+C:\Source\Thunders\Codigo\Thunders\Thunders.Domain\bin\Debug\net8.0\Thunders.Domain.deps.json
+C:\Source\Thunders\Codigo\Thunders\Thunders.Domain\bin\Debug\net8.0\Thunders.Domain.dll
+C:\Source\Thunders\Codigo\Thunders\Thunders.Domain\bin\Debug\net8.0\Thunders.Domain.pdb
+C:\Source\Thunders\Codigo\Thunders\Thunders.Domain\obj\Debug\net8.0\Thunders.Domain.csproj.AssemblyReference.cache
+C:\Source\Thunders\Codigo\Thunders\Thunders.Domain\obj\Debug\net8.0\Thunders.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Source\Thunders\Codigo\Thunders\Thunders.Domain\obj\Debug\net8.0\Thunders.Domain.AssemblyInfoInputs.cache
+C:\Source\Thunders\Codigo\Thunders\Thunders.Domain\obj\Debug\net8.0\Thunders.Domain.AssemblyInfo.cs
+C:\Source\Thunders\Codigo\Thunders\Thunders.Domain\obj\Debug\net8.0\Thunders.Domain.csproj.CoreCompileInputs.cache
+C:\Source\Thunders\Codigo\Thunders\Thunders.Domain\obj\Debug\net8.0\Thunders.Domain.dll
+C:\Source\Thunders\Codigo\Thunders\Thunders.Domain\obj\Debug\net8.0\refint\Thunders.Domain.dll
+C:\Source\Thunders\Codigo\Thunders\Thunders.Domain\obj\Debug\net8.0\Thunders.Domain.pdb
+C:\Source\Thunders\Codigo\Thunders\Thunders.Domain\obj\Debug\net8.0\ref\Thunders.Domain.dll

@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Thunders.Application\Thunders.Application.csproj" />
+    <ProjectReference Include="..\Thunders.Domain.Services\Thunders.Domain.Services.csproj" />
+    <ProjectReference Include="..\Thunders.Infra.Data\Thunders.Infra.Data.csproj" />
+  </ItemGroup>
+
+</Project>
