@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Source\\Thunders\\Codigo\\Thunders\\Thunders.Domain\\Thunders.Domain.csproj": {}
+    "C:\\Source\\Thunders\\github\\Thunders\\Codigo\\Thunders\\Thunders.Domain\\Thunders.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Source\\Thunders\\Codigo\\Thunders\\Thunders.Domain\\Thunders.Domain.csproj": {
+    "C:\\Source\\Thunders\\github\\Thunders\\Codigo\\Thunders\\Thunders.Domain\\Thunders.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Source\\Thunders\\Codigo\\Thunders\\Thunders.Domain\\Thunders.Domain.csproj",
+        "projectUniqueName": "C:\\Source\\Thunders\\github\\Thunders\\Codigo\\Thunders\\Thunders.Domain\\Thunders.Domain.csproj",
         "projectName": "Thunders.Domain",
-        "projectPath": "C:\\Source\\Thunders\\Codigo\\Thunders\\Thunders.Domain\\Thunders.Domain.csproj",
+        "projectPath": "C:\\Source\\Thunders\\github\\Thunders\\Codigo\\Thunders\\Thunders.Domain\\Thunders.Domain.csproj",
         "packagesPath": "C:\\Users\\deucl\\.nuget\\packages\\",
-        "outputPath": "C:\\Source\\Thunders\\Codigo\\Thunders\\Thunders.Domain\\obj\\",
+        "outputPath": "C:\\Source\\Thunders\\github\\Thunders\\Codigo\\Thunders\\Thunders.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\deucl\\AppData\\Roaming\\NuGet\\NuGet.Config",

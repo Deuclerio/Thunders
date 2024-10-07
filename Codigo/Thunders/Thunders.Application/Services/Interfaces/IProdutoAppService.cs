@@ -12,6 +12,7 @@ namespace Thunders.Application.Service.Interfaces
         Task<ProdutoDto> Insert(ProdutoDto obj);
         Task<ProdutoDto> Update(long id, ProdutoDto obj);
         Task Inactivate(long id);
+        Task<IEnumerable<ProdutoDto>> GetAllActive();
         Task<IEnumerable<Produto>> GetByDto(ProdutoFilter filter);
         Task<ProdutoDto> GetById(long Id);
     }

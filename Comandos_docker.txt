@@ -1,0 +1,2 @@
+Keys *
+--Verificar todas as chaves/keys para buscar, foi adicionado o nome na class ProdutoAppService dentro dos respectivos métodos.

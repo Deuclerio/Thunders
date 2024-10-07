@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Source\\Thunders\\Codigo\\Thunders\\Thunders.Infra.Data\\Thunders.Infra.Data.csproj": {}
+    "C:\\Source\\Thunders\\github\\Thunders\\Codigo\\Thunders\\Thunders.Infra.Data\\Thunders.Infra.Data.csproj": {}
   },
   "projects": {
-    "C:\\Source\\Thunders\\Codigo\\Thunders\\Thunders.Application\\Thunders.Application.csproj": {
+    "C:\\Source\\Thunders\\github\\Thunders\\Codigo\\Thunders\\Thunders.Application\\Thunders.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Source\\Thunders\\Codigo\\Thunders\\Thunders.Application\\Thunders.Application.csproj",
+        "projectUniqueName": "C:\\Source\\Thunders\\github\\Thunders\\Codigo\\Thunders\\Thunders.Application\\Thunders.Application.csproj",
         "projectName": "Thunders.Application",
-        "projectPath": "C:\\Source\\Thunders\\Codigo\\Thunders\\Thunders.Application\\Thunders.Application.csproj",
+        "projectPath": "C:\\Source\\Thunders\\github\\Thunders\\Codigo\\Thunders\\Thunders.Application\\Thunders.Application.csproj",
         "packagesPath": "C:\\Users\\deucl\\.nuget\\packages\\",
-        "outputPath": "C:\\Source\\Thunders\\Codigo\\Thunders\\Thunders.Application\\obj\\",
+        "outputPath": "C:\\Source\\Thunders\\github\\Thunders\\Codigo\\Thunders\\Thunders.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\deucl\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,11 +28,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Source\\Thunders\\Codigo\\Thunders\\Thunders.Domain.Core\\Thunders.Domain.Core.csproj": {
-                "projectPath": "C:\\Source\\Thunders\\Codigo\\Thunders\\Thunders.Domain.Core\\Thunders.Domain.Core.csproj"
+              "C:\\Source\\Thunders\\github\\Thunders\\Codigo\\Thunders\\Thunders.Domain.Core\\Thunders.Domain.Core.csproj": {
+                "projectPath": "C:\\Source\\Thunders\\github\\Thunders\\Codigo\\Thunders\\Thunders.Domain.Core\\Thunders.Domain.Core.csproj"
               },
-              "C:\\Source\\Thunders\\Codigo\\Thunders\\Thunders.Domain\\Thunders.Domain.csproj": {
-                "projectPath": "C:\\Source\\Thunders\\Codigo\\Thunders\\Thunders.Domain\\Thunders.Domain.csproj"
+              "C:\\Source\\Thunders\\github\\Thunders\\Codigo\\Thunders\\Thunders.Domain\\Thunders.Domain.csproj": {
+                "projectPath": "C:\\Source\\Thunders\\github\\Thunders\\Codigo\\Thunders\\Thunders.Domain\\Thunders.Domain.csproj"
               }
             }
           }
@@ -124,14 +124,14 @@
         }
       }
     },
-    "C:\\Source\\Thunders\\Codigo\\Thunders\\Thunders.Domain.Core\\Thunders.Domain.Core.csproj": {
+    "C:\\Source\\Thunders\\github\\Thunders\\Codigo\\Thunders\\Thunders.Domain.Core\\Thunders.Domain.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Source\\Thunders\\Codigo\\Thunders\\Thunders.Domain.Core\\Thunders.Domain.Core.csproj",
+        "projectUniqueName": "C:\\Source\\Thunders\\github\\Thunders\\Codigo\\Thunders\\Thunders.Domain.Core\\Thunders.Domain.Core.csproj",
         "projectName": "Thunders.Domain.Core",
-        "projectPath": "C:\\Source\\Thunders\\Codigo\\Thunders\\Thunders.Domain.Core\\Thunders.Domain.Core.csproj",
+        "projectPath": "C:\\Source\\Thunders\\github\\Thunders\\Codigo\\Thunders\\Thunders.Domain.Core\\Thunders.Domain.Core.csproj",
         "packagesPath": "C:\\Users\\deucl\\.nuget\\packages\\",
-        "outputPath": "C:\\Source\\Thunders\\Codigo\\Thunders\\Thunders.Domain.Core\\obj\\",
+        "outputPath": "C:\\Source\\Thunders\\github\\Thunders\\Codigo\\Thunders\\Thunders.Domain.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\deucl\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -148,8 +148,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Source\\Thunders\\Codigo\\Thunders\\Thunders.Domain\\Thunders.Domain.csproj": {
-                "projectPath": "C:\\Source\\Thunders\\Codigo\\Thunders\\Thunders.Domain\\Thunders.Domain.csproj"
+              "C:\\Source\\Thunders\\github\\Thunders\\Codigo\\Thunders\\Thunders.Domain\\Thunders.Domain.csproj": {
+                "projectPath": "C:\\Source\\Thunders\\github\\Thunders\\Codigo\\Thunders\\Thunders.Domain\\Thunders.Domain.csproj"
               }
             }
           }
@@ -193,14 +193,14 @@
         }
       }
     },
-    "C:\\Source\\Thunders\\Codigo\\Thunders\\Thunders.Domain\\Thunders.Domain.csproj": {
+    "C:\\Source\\Thunders\\github\\Thunders\\Codigo\\Thunders\\Thunders.Domain\\Thunders.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Source\\Thunders\\Codigo\\Thunders\\Thunders.Domain\\Thunders.Domain.csproj",
+        "projectUniqueName": "C:\\Source\\Thunders\\github\\Thunders\\Codigo\\Thunders\\Thunders.Domain\\Thunders.Domain.csproj",
         "projectName": "Thunders.Domain",
-        "projectPath": "C:\\Source\\Thunders\\Codigo\\Thunders\\Thunders.Domain\\Thunders.Domain.csproj",
+        "projectPath": "C:\\Source\\Thunders\\github\\Thunders\\Codigo\\Thunders\\Thunders.Domain\\Thunders.Domain.csproj",
         "packagesPath": "C:\\Users\\deucl\\.nuget\\packages\\",
-        "outputPath": "C:\\Source\\Thunders\\Codigo\\Thunders\\Thunders.Domain\\obj\\",
+        "outputPath": "C:\\Source\\Thunders\\github\\Thunders\\Codigo\\Thunders\\Thunders.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\deucl\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -270,14 +270,14 @@
         }
       }
     },
-    "C:\\Source\\Thunders\\Codigo\\Thunders\\Thunders.Infra.Data\\Thunders.Infra.Data.csproj": {
+    "C:\\Source\\Thunders\\github\\Thunders\\Codigo\\Thunders\\Thunders.Infra.Data\\Thunders.Infra.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Source\\Thunders\\Codigo\\Thunders\\Thunders.Infra.Data\\Thunders.Infra.Data.csproj",
+        "projectUniqueName": "C:\\Source\\Thunders\\github\\Thunders\\Codigo\\Thunders\\Thunders.Infra.Data\\Thunders.Infra.Data.csproj",
         "projectName": "Thunders.Infra.Data",
-        "projectPath": "C:\\Source\\Thunders\\Codigo\\Thunders\\Thunders.Infra.Data\\Thunders.Infra.Data.csproj",
+        "projectPath": "C:\\Source\\Thunders\\github\\Thunders\\Codigo\\Thunders\\Thunders.Infra.Data\\Thunders.Infra.Data.csproj",
         "packagesPath": "C:\\Users\\deucl\\.nuget\\packages\\",
-        "outputPath": "C:\\Source\\Thunders\\Codigo\\Thunders\\Thunders.Infra.Data\\obj\\",
+        "outputPath": "C:\\Source\\Thunders\\github\\Thunders\\Codigo\\Thunders\\Thunders.Infra.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\deucl\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -294,14 +294,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Source\\Thunders\\Codigo\\Thunders\\Thunders.Application\\Thunders.Application.csproj": {
-                "projectPath": "C:\\Source\\Thunders\\Codigo\\Thunders\\Thunders.Application\\Thunders.Application.csproj"
+              "C:\\Source\\Thunders\\github\\Thunders\\Codigo\\Thunders\\Thunders.Application\\Thunders.Application.csproj": {
+                "projectPath": "C:\\Source\\Thunders\\github\\Thunders\\Codigo\\Thunders\\Thunders.Application\\Thunders.Application.csproj"
               },
-              "C:\\Source\\Thunders\\Codigo\\Thunders\\Thunders.Domain.Core\\Thunders.Domain.Core.csproj": {
-                "projectPath": "C:\\Source\\Thunders\\Codigo\\Thunders\\Thunders.Domain.Core\\Thunders.Domain.Core.csproj"
+              "C:\\Source\\Thunders\\github\\Thunders\\Codigo\\Thunders\\Thunders.Domain.Core\\Thunders.Domain.Core.csproj": {
+                "projectPath": "C:\\Source\\Thunders\\github\\Thunders\\Codigo\\Thunders\\Thunders.Domain.Core\\Thunders.Domain.Core.csproj"
               },
-              "C:\\Source\\Thunders\\Codigo\\Thunders\\Thunders.Domain\\Thunders.Domain.csproj": {
-                "projectPath": "C:\\Source\\Thunders\\Codigo\\Thunders\\Thunders.Domain\\Thunders.Domain.csproj"
+              "C:\\Source\\Thunders\\github\\Thunders\\Codigo\\Thunders\\Thunders.Domain\\Thunders.Domain.csproj": {
+                "projectPath": "C:\\Source\\Thunders\\github\\Thunders\\Codigo\\Thunders\\Thunders.Domain\\Thunders.Domain.csproj"
               }
             }
           }

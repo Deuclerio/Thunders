@@ -18,20 +18,32 @@ namespace Thunders.Api.Controllers
             _produtoAppService = iProdutoAppService;
         }
 
+        [HttpGet("GetAllActive")]
+        [ProducesResponseType(typeof(IEnumerable<ProdutoDto>), 200)]
+        [ProducesResponseType(typeof(Error), StatusCodes.Status400BadRequest)]
+        [ProducesResponseType(typeof(Error), StatusCodes.Status500InternalServerError)]
+        public async Task<IActionResult> GetAllActive()
+        {
+            var response = await _produtoAppService.GetAllActive();
+
+            return Ok(response);
+        }
+
+
         [HttpGet("{id}")]
         [ProducesResponseType(typeof(ProdutoDto), 200)]
         [ProducesResponseType(typeof(Error), StatusCodes.Status400BadRequest)]
         [ProducesResponseType(typeof(Error), StatusCodes.Status500InternalServerError)]
         public async Task<IActionResult> GetById(long id)
         {
-            var ret = await _produtoAppService.GetById(id);
-            if (ret == null)
+            var response = await _produtoAppService.GetById(id);
+            if (response == null)
             {
                 return NotFound("Não foi encontrado Produto Ativo com esse Id");
             }
             else
             {
-                return Ok(ret);
+                return Ok(response);
             }
         }
 
@@ -41,9 +53,9 @@ namespace Thunders.Api.Controllers
         [ProducesResponseType(typeof(Error), StatusCodes.Status500InternalServerError)]
         public async Task<IActionResult> GetByDto([FromQuery] ProdutoFilter filter)
         {
-            var result = await _produtoAppService.GetByDto(filter);
+            var response = await _produtoAppService.GetByDto(filter);
 
-            return Ok(result);
+            return Ok(response);
         }
 
 

@@ -12772,11 +12772,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Source\\Thunders\\Codigo\\Thunders\\Thunders.Api\\Thunders.Api.csproj",
+      "projectUniqueName": "C:\\Source\\Thunders\\github\\Thunders\\Codigo\\Thunders\\Thunders.Api\\Thunders.Api.csproj",
       "projectName": "Thunders.Api",
-      "projectPath": "C:\\Source\\Thunders\\Codigo\\Thunders\\Thunders.Api\\Thunders.Api.csproj",
+      "projectPath": "C:\\Source\\Thunders\\github\\Thunders\\Codigo\\Thunders\\Thunders.Api\\Thunders.Api.csproj",
       "packagesPath": "C:\\Users\\deucl\\.nuget\\packages\\",
-      "outputPath": "C:\\Source\\Thunders\\Codigo\\Thunders\\Thunders.Api\\obj\\",
+      "outputPath": "C:\\Source\\Thunders\\github\\Thunders\\Codigo\\Thunders\\Thunders.Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\deucl\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -12793,11 +12793,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Source\\Thunders\\Codigo\\Thunders\\Thunders.Infra.CrossCutting\\Thunders.Infra.CrossCutting.csproj": {
-              "projectPath": "C:\\Source\\Thunders\\Codigo\\Thunders\\Thunders.Infra.CrossCutting\\Thunders.Infra.CrossCutting.csproj"
+            "C:\\Source\\Thunders\\github\\Thunders\\Codigo\\Thunders\\Thunders.Infra.CrossCutting\\Thunders.Infra.CrossCutting.csproj": {
+              "projectPath": "C:\\Source\\Thunders\\github\\Thunders\\Codigo\\Thunders\\Thunders.Infra.CrossCutting\\Thunders.Infra.CrossCutting.csproj"
             },
-            "C:\\Source\\Thunders\\Codigo\\Thunders\\Thunders.Infra.Data\\Thunders.Infra.Data.csproj": {
-              "projectPath": "C:\\Source\\Thunders\\Codigo\\Thunders\\Thunders.Infra.Data\\Thunders.Infra.Data.csproj"
+            "C:\\Source\\Thunders\\github\\Thunders\\Codigo\\Thunders\\Thunders.Infra.Data\\Thunders.Infra.Data.csproj": {
+              "projectPath": "C:\\Source\\Thunders\\github\\Thunders\\Codigo\\Thunders\\Thunders.Infra.Data\\Thunders.Infra.Data.csproj"
             }
           }
         }

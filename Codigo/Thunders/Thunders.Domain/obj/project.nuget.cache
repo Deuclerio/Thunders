@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SFE8r95yN7pnwa9Easg5F4JsX9+WnhE2KinAww+Xbk3BOWbfMMD2Xj6aubDiIVtas4w0fFndHXWjJazLZY9kbA==",
+  "dgSpecHash": "8dFqdRJdSJYVt5IvDLkInGRakjKP/TbDA8vLp/dZNsSb1jAxDgALaHIHROZTWIcxjSsfLIobNJFNUN8TGTwUsQ==",
   "success": true,
-  "projectFilePath": "C:\\Source\\Thunders\\Codigo\\Thunders\\Thunders.Domain\\Thunders.Domain.csproj",
+  "projectFilePath": "C:\\Source\\Thunders\\github\\Thunders\\Codigo\\Thunders\\Thunders.Domain\\Thunders.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\deucl\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\deucl\\.nuget\\packages\\microsoft.extensions.objectpool\\6.0.16\\microsoft.extensions.objectpool.6.0.16.nupkg.sha512",

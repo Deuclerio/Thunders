@@ -10,7 +10,6 @@ using System;
 using System.Collections.Generic;
 using System.Threading.Tasks;
 using StackExchange.Redis;
-using System.ServiceModel;
 using System.Text.Json;
 
 namespace Thunders.Application.Services
@@ -18,7 +17,7 @@ namespace Thunders.Application.Services
     public class ProdutoAppService : AppService, IProdutoAppService
     {
         private readonly IDatabase _redisDatabase;
-        private readonly CacheSettings _cacheSettings; // Certifique-se de que esta linha está presente
+        private readonly CacheSettings _cacheSettings;
 
         private readonly IMapper _mapper;
         private readonly IProdutoService _produtoService;
@@ -55,8 +54,18 @@ namespace Thunders.Application.Services
         {
             try
             {
+                var cacheKey = "produtos:allActive"; 
+                var cachedProdutos = await _redisDatabase.StringGetAsync(cacheKey);
+
+                if (cachedProdutos.HasValue)
+                {
+                    return JsonSerializer.Deserialize<IEnumerable<ProdutoDto>>(cachedProdutos);
+                }
+
                 var listaProduto = await _produtoService.GetAll();
                 var listaProdutoDto = _mapper.Map<IEnumerable<ProdutoDto>>(listaProduto);
+
+                await _redisDatabase.StringSetAsync(cacheKey, JsonSerializer.Serialize(listaProdutoDto), TimeSpan.FromSeconds(_cacheSettings.ProdutoCacheDuration));
 
                 return listaProdutoDto;
             }
@@ -143,25 +152,21 @@ namespace Thunders.Application.Services
 
         public static void ValidationDate(DateTime? dataFabricacao, DateTime? dataValidade)
         {
-            // Check if dataFabricacao is null
             if (!dataFabricacao.HasValue)
             {
                 throw new Exception("Data de fabricação é inválida.");
             }
 
-            // Check if dataValidade is null
             if (!dataValidade.HasValue)
             {
                 throw new Exception("Data de validade é inválida.");
             }
 
-            // Check if dataFabricacao is in the future
             if (dataFabricacao > DateTime.Now)
             {
                 throw new Exception("Data de fabricação não pode ser uma data futura.");
             }
 
-            // Check if dataValidade is valid and if dataFabricacao is before it
             if (dataValidade > DateTime.Now && dataFabricacao >= dataValidade)
             {
                 throw new Exception("Data de fabricação deve ser menor que a data de validade.");

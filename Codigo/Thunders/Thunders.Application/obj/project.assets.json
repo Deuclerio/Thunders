@@ -7135,11 +7135,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Source\\Thunders\\Codigo\\Thunders\\Thunders.Application\\Thunders.Application.csproj",
+      "projectUniqueName": "C:\\Source\\Thunders\\github\\Thunders\\Codigo\\Thunders\\Thunders.Application\\Thunders.Application.csproj",
       "projectName": "Thunders.Application",
-      "projectPath": "C:\\Source\\Thunders\\Codigo\\Thunders\\Thunders.Application\\Thunders.Application.csproj",
+      "projectPath": "C:\\Source\\Thunders\\github\\Thunders\\Codigo\\Thunders\\Thunders.Application\\Thunders.Application.csproj",
       "packagesPath": "C:\\Users\\deucl\\.nuget\\packages\\",
-      "outputPath": "C:\\Source\\Thunders\\Codigo\\Thunders\\Thunders.Application\\obj\\",
+      "outputPath": "C:\\Source\\Thunders\\github\\Thunders\\Codigo\\Thunders\\Thunders.Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\deucl\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -7156,11 +7156,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Source\\Thunders\\Codigo\\Thunders\\Thunders.Domain.Core\\Thunders.Domain.Core.csproj": {
-              "projectPath": "C:\\Source\\Thunders\\Codigo\\Thunders\\Thunders.Domain.Core\\Thunders.Domain.Core.csproj"
+            "C:\\Source\\Thunders\\github\\Thunders\\Codigo\\Thunders\\Thunders.Domain.Core\\Thunders.Domain.Core.csproj": {
+              "projectPath": "C:\\Source\\Thunders\\github\\Thunders\\Codigo\\Thunders\\Thunders.Domain.Core\\Thunders.Domain.Core.csproj"
             },
-            "C:\\Source\\Thunders\\Codigo\\Thunders\\Thunders.Domain\\Thunders.Domain.csproj": {
-              "projectPath": "C:\\Source\\Thunders\\Codigo\\Thunders\\Thunders.Domain\\Thunders.Domain.csproj"
+            "C:\\Source\\Thunders\\github\\Thunders\\Codigo\\Thunders\\Thunders.Domain\\Thunders.Domain.csproj": {
+              "projectPath": "C:\\Source\\Thunders\\github\\Thunders\\Codigo\\Thunders\\Thunders.Domain\\Thunders.Domain.csproj"
             }
           }
         }

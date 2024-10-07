@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SlijV9cAvNrSVW5ke05afF8xiFQmh1bcRrQ6VK43xJEdi8dCWkgK0/UAwaLhzP43uvKNnsAQdeJ/pg70F/pJig==",
+  "dgSpecHash": "5WpoZ5pC0YuoTFrGajTYtbyAIvbifv1C7A+MHdxNrM3d0d3MzgiT8bJdOsFRTYG5osBA0I5d2tavRCcxCgIUlA==",
   "success": true,
-  "projectFilePath": "C:\\Source\\Thunders\\Codigo\\Thunders\\Thunders.Api\\Thunders.Api.csproj",
+  "projectFilePath": "C:\\Source\\Thunders\\github\\Thunders\\Codigo\\Thunders\\Thunders.Api\\Thunders.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\deucl\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\deucl\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",

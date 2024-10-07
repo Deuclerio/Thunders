@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Thunders.Domain.Services")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+61e81fd8607526fad44c90df07526a6a24bde680")]
 [assembly: System.Reflection.AssemblyProductAttribute("Thunders.Domain.Services")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Thunders.Domain.Services")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

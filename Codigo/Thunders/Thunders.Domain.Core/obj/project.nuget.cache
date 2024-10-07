@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IzE6N45J6DhNhVC513BmAEamA8KJ2GBnisoRM/QsudKlxqqO3Tsnc9xk/uRu1gEbMG/SkK5CI9MBz0IrKn9cew==",
+  "dgSpecHash": "DpN3sQM3JB9v5sKX0qFtaOZ8j1cPE8Rh8Hd5oOIb3YIR2aZvpCHiILG3IkYZK6ZD7sGK7r62pj5m8H6eo+gBPg==",
   "success": true,
-  "projectFilePath": "C:\\Source\\Thunders\\Codigo\\Thunders\\Thunders.Domain.Core\\Thunders.Domain.Core.csproj",
+  "projectFilePath": "C:\\Source\\Thunders\\github\\Thunders\\Codigo\\Thunders\\Thunders.Domain.Core\\Thunders.Domain.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\deucl\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\deucl\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.0\\microsoft.entityframeworkcore.8.0.0.nupkg.sha512",

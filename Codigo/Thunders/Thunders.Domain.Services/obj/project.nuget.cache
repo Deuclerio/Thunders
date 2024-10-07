@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pQhe9sdoslnqWofA7gaGZvVT43c8xYYU16ljiWZELWwKKoTvF9k7bD+N87rXxyjjm8aXF0YdIJO9G6i7+gpiJg==",
+  "dgSpecHash": "nU4iCGCSu2DJADkwbSbgEibY5cu/Blj09dR0n0O33XmcF4OF7w6O8cohuIHolohXWx5K0+6NnbP0c95ynTbj1A==",
   "success": true,
-  "projectFilePath": "C:\\Source\\Thunders\\Codigo\\Thunders\\Thunders.Domain.Services\\Thunders.Domain.Services.csproj",
+  "projectFilePath": "C:\\Source\\Thunders\\github\\Thunders\\Codigo\\Thunders\\Thunders.Domain.Services\\Thunders.Domain.Services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\deucl\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\deucl\\.nuget\\packages\\closedxml\\0.102.2\\closedxml.0.102.2.nupkg.sha512",

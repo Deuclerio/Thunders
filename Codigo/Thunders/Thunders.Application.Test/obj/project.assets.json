@@ -12080,11 +12080,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Source\\Thunders\\Codigo\\Thunders\\Thunders.Application.Test\\Thunders.Application.Test.csproj",
+      "projectUniqueName": "C:\\Source\\Thunders\\github\\Thunders\\Codigo\\Thunders\\Thunders.Application.Test\\Thunders.Application.Test.csproj",
       "projectName": "Thunders.Application.Test",
-      "projectPath": "C:\\Source\\Thunders\\Codigo\\Thunders\\Thunders.Application.Test\\Thunders.Application.Test.csproj",
+      "projectPath": "C:\\Source\\Thunders\\github\\Thunders\\Codigo\\Thunders\\Thunders.Application.Test\\Thunders.Application.Test.csproj",
       "packagesPath": "C:\\Users\\deucl\\.nuget\\packages\\",
-      "outputPath": "C:\\Source\\Thunders\\Codigo\\Thunders\\Thunders.Application.Test\\obj\\",
+      "outputPath": "C:\\Source\\Thunders\\github\\Thunders\\Codigo\\Thunders\\Thunders.Application.Test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\deucl\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -12101,14 +12101,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Source\\Thunders\\Codigo\\Thunders\\Thunders.Api\\Thunders.Api.csproj": {
-              "projectPath": "C:\\Source\\Thunders\\Codigo\\Thunders\\Thunders.Api\\Thunders.Api.csproj"
+            "C:\\Source\\Thunders\\github\\Thunders\\Codigo\\Thunders\\Thunders.Api\\Thunders.Api.csproj": {
+              "projectPath": "C:\\Source\\Thunders\\github\\Thunders\\Codigo\\Thunders\\Thunders.Api\\Thunders.Api.csproj"
             },
-            "C:\\Source\\Thunders\\Codigo\\Thunders\\Thunders.Application\\Thunders.Application.csproj": {
-              "projectPath": "C:\\Source\\Thunders\\Codigo\\Thunders\\Thunders.Application\\Thunders.Application.csproj"
+            "C:\\Source\\Thunders\\github\\Thunders\\Codigo\\Thunders\\Thunders.Application\\Thunders.Application.csproj": {
+              "projectPath": "C:\\Source\\Thunders\\github\\Thunders\\Codigo\\Thunders\\Thunders.Application\\Thunders.Application.csproj"
             },
-            "C:\\Source\\Thunders\\Codigo\\Thunders\\Thunders.Domain\\Thunders.Domain.csproj": {
-              "projectPath": "C:\\Source\\Thunders\\Codigo\\Thunders\\Thunders.Domain\\Thunders.Domain.csproj"
+            "C:\\Source\\Thunders\\github\\Thunders\\Codigo\\Thunders\\Thunders.Domain\\Thunders.Domain.csproj": {
+              "projectPath": "C:\\Source\\Thunders\\github\\Thunders\\Codigo\\Thunders\\Thunders.Domain\\Thunders.Domain.csproj"
             }
           }
         }
